@@ -4,4 +4,4 @@ Projeto de pesquisa iniciado na 2ª fase da graduação em Ciências da Computa�
 O programa pode ser executado pelo arquivo "app.py", com python3.
 
 Relatório do projeto:
-[Extrator-CV-Lattes.pdf](https://github.com/eduardobetim/Extrator-CV-Lattes-PET-Computacao-UFSC/files/7220890/Extrator-CV-Lattes.pdf)
+[Extrator-CV-Lattes.pdf](https://github.com/eduardobetim/Extrator-CV-Lattes-PET-Computacao-UFSC/files/7238245/Extrator-CV-Lattes.pdf)
